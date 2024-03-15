@@ -1,5 +1,5 @@
 # JavaScript for Web
-## Full Stack Course - {{ Start Date }}
+## Full Stack Course - March 25, 2024
 
 ### ✏️ Homework
 
@@ -7,24 +7,23 @@
 
 ### 📄 Docs
 
-- [Handout]((https://drive.google.com/file/d/1EZqg4wbLw1woasGVuMlTGontuw1-I760/view?usp=drive_link)
+- [Handout](https://drive.google.com/file/d/1EZqg4wbLw1woasGVuMlTGontuw1-I760/view?usp=drive_link)
 
 ### 📅 Dates:
-  - Mon, March 25 {{ Weekday, Month Day }}
-  - Wed, March 27 {{ Weekday, Month Day }}
-  - Fri, March 29 {{ Weekday, Month Day }}
-  - Mon, April 1 {{ Weekday, Month Day }}
-  - Wed, April 3 {{ Weekday, Month Day }}
-  - Fri, April 5 {{ Weekday, Month Day }}
-  - Mon, April 8 {{ Weekday, Month Day }}
-  - Wed, April 10 {{ Weekday, Month Day }}
+  - Mon, March 25 
+  - Wed, March 27 
+  - Wed, April 3 
+  - Fri, April 5 
+  - Mon, April 8 
+  - Wed, April 10 
+  - Fri, April 12
 
 ### 🎯 Location:
-{{Whisky Tango Foxtrot / Die Diele / ABK}}
+ABK Akademie für Beruf & Karriere, Campus Eilbek
 
 ### 🤔 Questions?
 
-Use the Slack channel #{{ slack-channel fullstack-202Y-Q }}
+Use the Slack channel #fullstack-2024-1
 
 > To join Slack just click on this [link](https://hamburgcodingschool.slack.com/join/shared_invite/enQtMjczNDI3OTE4NzIwLTE2ZmNkNDk5YTg3MDFlOTY2ZmU2YzU5YTU4MTNhNDg4MTRhNTMwYzFiNTdlOTdhYzllYzg5YmVkYzljNWExY2U#/)
 
